@@ -1,8 +1,6 @@
 # Hey 👋, I'm Jeremy!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jeremy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremy-white-dev//)](https://www.linkedin.com/in/jeremy-white-dev//)
-
-<img src="https://komarev.com/ghpvc/?username=JeremyWhiteDev&label=Profile%20views&color=0e75b6&style=flat" alt="Jeremy White" />
+[![Linkedin Badge](https://img.shields.io/badge/-Jeremy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremy-white-dev//)](https://www.linkedin.com/in/jeremy-white-dev//) <img src="https://komarev.com/ghpvc/?username=JeremyWhiteDev&label=Profile%20views&color=0e75b6&style=flat" alt="Jeremy White" />
 
 
  
