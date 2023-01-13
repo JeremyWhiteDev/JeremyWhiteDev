@@ -14,7 +14,7 @@ Hi there, I'm Jeremy White, a Software Developer from Nashville, TN.
 - I like building things (Code, Furniture, Home Improvemnts)
 - I'm learning C#/.NET, Javascript, and REACT right now.
 - I'm attending Nashville Software School's part-time Web Development Bootcamp.
-- I'm looking for a job where I can continue to be challenged and learn new things.
+- I'm looking to join a team where I can continue to be challenged and learn new things.
 
 
 
