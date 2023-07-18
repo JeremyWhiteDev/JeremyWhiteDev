@@ -19,7 +19,7 @@ Hi there, I'm Jeremy White, a Software Developer from Nashville, TN.
 
 ## Stats
 
-[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremywhitedev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeremy's GitHub stats](https://github-readme-stats-git-main-jeremywhitedev.vercel.app/api?username=jeremywhitedev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages & Technologies
 
@@ -33,6 +33,9 @@ Hi there, I'm Jeremy White, a Software Developer from Nashville, TN.
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px" height="30px"></a>
 <a href="https://react-query-v3.tanstack.com/" title="React Query"><img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="React Query" width="30px" height="30px"></a>
 
-[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremywhitedev)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeremy's GitHub stats](https://github-readme-stats-git-main-jeremywhitedev.vercel.app/api/top-langs/?username=jeremywhitedev)](https://github.com/anuraghazra/github-readme-stats)
+
+github-readme-stats-git-main-jeremywhitedev.vercel.app
+
 
 **⭐️ From [Jeremy White](https://github.com/JeremyWhiteDev)**
